@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1-1080P
-http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 ,北京卫视1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 ,江苏卫视1080P
