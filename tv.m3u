@@ -7,8 +7,10 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m
 http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv5/1300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-13
 http://keonline.shanghai.liveplay.qq.com/live/program/live/cctvxw/1300000/mnf.m3u8
-#EXTINF:-1 ,湖南卫视
-http://121.31.30.91:8081/ysten-business/live/hdhunanstv/1.m3u8
+#EXTINF:-1 ,游戏风云
+http://keonline.shanghai.liveplay.qq.com/live/program/live/yxfy/1300000/mnf.m3u8
+#EXTINF:-1 ,上海纪实
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jspd/1300000/mnf.m3u8
 #EXTINF:-1 ,凤凰卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,虎牙
