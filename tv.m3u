@@ -10,4 +10,12 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/cctvxw/1300000/mnf.m3
 #EXTINF:-1 ,湖南卫视
 http://121.31.30.91:8081/ysten-business/live/hdhunanstv/1.m3u8
 #EXTINF:-1 ,凤凰卫视
-http://zv.3gv.ifeng.com/zixun.m3u8
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,凤凰卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,凤凰卫视
+http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 ,凤凰卫视
+http://stream.guihet.com/migu/index.php?id=625542369
+#EXTINF:-1 ,凤凰卫视
+http://61.58.60.230:9319/live/207.m3u8
